@@ -1,40 +1,88 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "San Francisco",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-06-21T07:37:08.748Z",
+      "notes": "The place i miss a lot",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": "37.74465712069939",
+        "lng": "-122.43742811902935"
       },
-      "id": 73930385
+      "id": 73930386
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Kuala Lumpur",
+      "country": "Malaysia",
+      "emoji": "🇲🇾",
+      "date": "2024-06-21T07:37:51.015Z",
+      "notes": "Great vacation!",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "3.0746950723696944",
+        "lng": "101.69170311407994"
       },
-      "id": 17806751
+      "id": 73930387
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Wellington",
+      "country": "New Zealand",
+      "emoji": "🇳🇿",
+      "date": "2024-06-21T07:38:25.732Z",
+      "notes": "Unforgettable family trip!",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "-41.29431726315258",
+        "lng": "174.8033641368576"
       },
-      "id": 98443197
+      "id": 73930388
+    },
+    {
+      "cityName": "Izmir",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-06-21T07:39:21.287Z",
+      "notes": "Loved that city!",
+      "position": {
+        "lat": "38.417014454352035",
+        "lng": "27.145424654410174"
+      },
+      "id": 73930389
+    },
+    {
+      "cityName": "Mecca",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2024-06-21T07:40:11.804Z",
+      "notes": "Where I face daily...",
+      "position": {
+        "lat": "21.417276156993662",
+        "lng": "39.81509109117833"
+      },
+      "id": 73930390
+    },
+    {
+      "cityName": "Medina",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2024-06-21T07:42:15.384Z",
+      "notes": "Where my soul rests completely....",
+      "position": {
+        "lat": "24.477150011148677",
+        "lng": "39.63907939712149"
+      },
+      "id": 73930391
+    },
+    {
+      "cityName": "Dubai",
+      "country": "United Arab Emirates (the)",
+      "emoji": "🇦🇪",
+      "date": "2024-06-21T07:43:02.511Z",
+      "notes": "Would love to comeback again",
+      "position": {
+        "lat": "24.95119964792312",
+        "lng": "54.98122707090425"
+      },
+      "id": 73930392
     }
   ]
 }
